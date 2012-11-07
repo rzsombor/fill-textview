@@ -1,4 +1,4 @@
-package hu.scythe.gridlayouttest;
+package hu.rzsombor.widget;
 
 import android.app.Activity;
 import android.os.Bundle;

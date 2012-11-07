@@ -10,11 +10,11 @@
         android:layout_weight="1"
         android:orientation="horizontal" >
 
-        <hu.scythe.gridlayouttest.FontFitTextView
+        <hu.rzsombor.widget.FillTextView
             android:layout_width="0dip"
             android:layout_height="fill_parent"
             android:layout_weight="5"
-            android:text="LÓ CUCC VALAMI"
+            android:text="Demo text content"
             android:textSize="20dip" />
 
         <LinearLayout
@@ -27,14 +27,14 @@
             android:gravity="right">
 
             <Button
-                android:layout_width="wrap_content"
+                android:layout_width="40dip"
                 android:layout_height="wrap_content"
                 android:onClick="onHorizontalPlus"
                 android:text="+"
                 android:textSize="20dip" />
 
             <Button
-                android:layout_width="wrap_content"
+                android:layout_width="40dip"
                 android:layout_height="wrap_content"
                 android:onClick="onHorizontalMinus"
                 android:text="-"
@@ -52,14 +52,14 @@
         android:orientation="horizontal" >
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="40dip"
             android:layout_height="wrap_content"
             android:onClick="onVerticalPlus"
             android:text="+"
             android:textSize="20dip" />
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="40dip"
             android:layout_height="wrap_content"
             android:onClick="onVerticalMinus"
             android:text="-"

@@ -1,4 +1,4 @@
-package hu.scythe.gridlayouttest;
+package hu.rzsombor.widget;
 
 import android.content.Context;
 import android.graphics.Paint;
@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.widget.TextView;
 
-public class FontFitTextView extends TextView {
+public class FillTextView extends TextView {
 
 	// Scaling factor
 	private static final float VERTICAL_FONT_SCALING_FACTOR = 0.9f;
@@ -14,12 +14,12 @@ public class FontFitTextView extends TextView {
 	// Attributes
 	private Paint mTestPaint;
 
-	public FontFitTextView(Context context) {
+	public FillTextView(Context context) {
 		super(context);
 		initialise();
 	}
 
-	public FontFitTextView(Context context, AttributeSet attrs) {
+	public FillTextView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 		initialise();
 	}
