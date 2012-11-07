@@ -9,8 +9,8 @@ and Y axis to determine the font size. The project contains a demo Activity.
 
 Screenshots from the demo app:
 
-![Screenshot1](/Docs/Screenshots/shot1.png "")
+![Screenshot1](https://github.com/rzsombor/fill-textview/blob/master/Docs/Screenshots/shot1.png)
 
-![Screenshot2](/Docs/Screenshots/shot2.png "")
+![Screenshot2](https://github.com/rzsombor/fill-textview/blob/master/Docs/Screenshots/shot2.png)
 
-![Screenshot3](/Docs/Screenshots/shot3.png "")
+![Screenshot3](https://github.com/rzsombor/fill-textview/blob/master/Docs/Screenshots/shot3.png)
